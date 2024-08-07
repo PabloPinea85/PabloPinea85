@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/xFV5Kxz/pablo-banner.png)
+![(https://i.ibb.co/xFV5Kxz/pablo-banner.png)](https://i.ibb.co/wJkYP55/pablo-banner.png)
 
 # Hi there, I'm Pablo Pinea 👋
 **Trainee Frontend Developer | React.js | Node.js | Data Analyst | Business Administration**
