@@ -73,7 +73,7 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://www.linkedin.com/in/pablopinea85" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/pablopinea" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
   <a href="https://twitter.com/PabloPinea85" target="_blank" rel="noreferrer">
