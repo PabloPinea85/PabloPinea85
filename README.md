@@ -1,3 +1,4 @@
+<a href="https://ibb.co/ZTgzm5Z"><img src="https://i.ibb.co/Bs62Nb1/Banner-de-Linked-In-Tecnolog-a-pablo-pinea.png" alt="Banner-de-Linked-In-Tecnolog-a-pablo-pinea" border="0"></a>
 # Pablo Pinea
 **Trainee Frontend Developer | React.js | Node.js | Data Analyst | Business Administration**
 
