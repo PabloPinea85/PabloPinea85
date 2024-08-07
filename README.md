@@ -1,7 +1,7 @@
 ![(https://i.ibb.co/xFV5Kxz/pablo-banner.png)](https://i.ibb.co/wJkYP55/pablo-banner.png)
 
 # Hi there, I'm Pablo Pinea 👋
-**Trainee Frontend Developer | React.js | Node.js | Data Analyst | Business Administration**
+**Full Stack Trainee | React.js | Node.js | Data Analyst | Business Administration**
 
 🌍 I'm based in Mendoza, Argentina
 
