@@ -1,4 +1,4 @@
-![(https://i.ibb.co/xFV5Kxz/pablo-banner.png)](https://i.ibb.co/wJkYP55/pablo-banner.png)
+![(https://i.ibb.co/wJkYP55/pablo-banner.png)](https://i.ibb.co/v4xdLWx/pablo-banner.png)
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pablo Pinea
 **Full Stack Trainee | React.js | Node.js | Data Analyst | Business Administration**
